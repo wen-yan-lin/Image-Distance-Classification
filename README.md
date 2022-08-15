@@ -1,4 +1,4 @@
-Distance Based Image Classification: A solution to generative classification’s conundrum? 
+#Distance Based Image Classification: A solution to generative classification’s conundrum? 
 
 
 
