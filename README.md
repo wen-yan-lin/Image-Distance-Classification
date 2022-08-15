@@ -1,5 +1,6 @@
-# Image-Distance-Classification
 Distance Based Image Classification: A solution to generative classification’s conundrum? 
+
+
 
 Distance classification argues that the distance between image features are only meaningful if non-semantic noise cnacellation is applied. The code shows how such noise cancellation can be acheived; argues that normalization is just one  form of noise cancellation; and shows how distance based classification allows for effective incremental learning. 
 
