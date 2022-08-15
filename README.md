@@ -5,5 +5,4 @@ Distance classification argues that the distance between image features are only
 
 Link to features used in the paper:
 file:///home/daniel/Work/webpage/public_html/data/resNet.zip
-
 To create your own features from images, you can use the dir2feat function in dir_util.py
